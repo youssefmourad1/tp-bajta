@@ -1,1 +1,1 @@
-# tp-bajta
+# tp-GIT
